@@ -1,6 +1,4 @@
 # Personalized-Recommendation-System
-Readme file : Content-Based Recommendation System
-
 Introduction
 This project is a content-based recommendation system built using Python. This system provides personalized movie recommendations based on the features of the movie.
 
